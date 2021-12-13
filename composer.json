@@ -1,5 +1,5 @@
 {
-    "name": "acquia/lightning",
+    "name": "dxpr/lightning",
     "type": "drupal-profile",
     "description": "The best of Drupal, curated by Acquia",
     "license": "GPL-2.0-or-later",
