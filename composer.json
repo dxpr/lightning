@@ -16,7 +16,7 @@
         "dxpr/lightning_media": "5.0.0-alpha3",
         "drupal/lightning_workflow": "^3.16",
         "drupal/page_manager": "^4.0-beta6",
-        "drupal/panelizer": "^5.0-beta3",
+        "drupal/panelizer": "5.0.0-beta3",
         "drupal/pendo": "^1@alpha",
         "drupal/profile_switcher": "^1.0-alpha5",
         "drupal/search_api": "^1.17"
